@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 使用webpack打包AngularJS1.X方法总结
-date: 2015-3-02
+date: 2015-06-05
 categories: blog
 tags: [webpack,angular]
 description: 纯技术分享。
