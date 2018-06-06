@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Archive"
+title: "博客历史"
 description: "文章归档"
 header-img: "img/orange.jpg"
 ---
